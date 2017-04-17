@@ -28,4 +28,9 @@ public class AppTest {
 	public void testPrinLiang(){
 		assertEquals("Hello, LiangXiao", app.prinLiang());
 	} 
+	
+	@Test
+	public void testPrinZhang(){
+		assertEquals("Hello, ZhangYuchi", app.prinZhang());
+	} 
 }

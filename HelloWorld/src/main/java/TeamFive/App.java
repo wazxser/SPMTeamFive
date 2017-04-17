@@ -29,4 +29,10 @@ public class App
 		String str = "Hello, LiangXiao";
 		return str;
 	}
+	
+	public String prinZhang()
+	{
+		String str = "Hello, ZhangYuchi";
+		return str;
+	}
 }
