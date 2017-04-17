@@ -37,7 +37,7 @@ public class App
 	}
 	public String printNiu()
 	{
-		String str = "Hello, Niu Feifei";
+		String str = "Hello,Niu Feifei";
 		return str;
 	}
 }

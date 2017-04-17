@@ -35,6 +35,6 @@ public class AppTest {
 	} 
 	@Test
 	public void testPrintNiu(){
-		assertEquals("Hello, Niu Feifei", app.printNiu());
+		assertEquals("Hello,Niu Feifei", app.printNiu());
 	}
 }
