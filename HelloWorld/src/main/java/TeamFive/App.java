@@ -35,4 +35,9 @@ public class App
 		String str = "Hello, ZhangYuchi";
 		return str;
 	}
+	public String printNiu()
+	{
+		String str = "Hello, Niu Feifei";
+		return str;
+	}
 }
