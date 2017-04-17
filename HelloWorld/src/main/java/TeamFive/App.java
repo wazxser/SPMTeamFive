@@ -23,4 +23,10 @@ public class App
 		String str = "Hello, ZhaoDanning";
 		return str;
 	}
+
+	public String prinLiang()
+	{
+		String str = "Hello, LiangXiao";
+		return str;
+	}
 }
