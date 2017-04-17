@@ -17,4 +17,10 @@ public class App
 		String str = "Hello, ChenYao";
         return str;
 	}
+
+	public String prinZhao()
+	{
+		String str = "Hello, ZhaoDanning";
+		return str;
+	}
 }
